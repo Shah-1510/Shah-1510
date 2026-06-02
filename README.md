@@ -26,16 +26,11 @@ I have delivered Data Analytics and Business Intelligence consulting services to
 * Delivered analytics solutions across Fintech, Sales, Marketing, Logistics, Healthcare, Retail, and Cyber Security domains
 * Supported organizations in turning complex data into actionable business insights
 
-## 🛠️ Tech Stack
-
-**Power BI • Microsoft Fabric • SQL • Python • DAX • Power Query • Excel • ELK Stack • Batch Scripting • Tableau • Snowflake • Azure • Git • SSIS • Power Automate**
-
 ## 📫 Let's Connect
 
 If you're looking for a BI Engineer, Data Analyst, or Data Consultant to help transform data into business value, feel free to connect.
 
 **Let's build something impactful together.**
-
 
 
 ## 🌐 Socials:
