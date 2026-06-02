@@ -1,35 +1,41 @@
 # 💫 About Me:
-I am Currently working Remotely as a BI Engineer at WeCrunch along with that I am currently based in Italy, Milan for my Masters in Data Science from University of Milano Bicocca
+# Hi, I'm Syed Muhammad Shoaib 👋
 
-I am a Data/BI Analyst also worked at Keenu x Bazaar Pakistan's Largest fintech company and a Google Certified Data Analyst with a background in Software Engineering, passionate about turning raw data into actionable insights that fuel smarter decision making
+I am currently working remotely as a **BI Engineer at WeCrunch** while pursuing a **Master's degree in Data Science** at the **University of Milano-Bicocca, Italy**.
 
-over the past few years I have delivered Freelance Data Analysis and Consultancy services to worldwide clients including those in the Saudi Arabia, UAE, Switzerland, USA, India, Singapore, Denmark, Ireland, Pakistan, Bahamas, Chile, Netherlands, UK, and others, driving global business performance through tailored BI solutions.
+I am a **Business Intelligence & Data Analytics professional** with 3+ years of experience in BI, Data Analytics, and Reporting. Previously, I worked at **Keenu x Bazaar**, one of Pakistan's largest fintech companies, and I am also a **Google Certified Data Analyst** with a background in Software Engineering.
 
-Reach to me, If you are:
+I am passionate about transforming raw data into actionable insights that help businesses make smarter, data-driven decisions.
 
-• VC Backed Startup, Ready to Scale
-• B2B, B2C or SAAS Companies, Automating Processes
-• CEO, Founders or Business Owners Seeking Efficient Data Consultant for Data Driven Solutions
+## 🌍 Global Experience
 
+I have delivered Data Analytics and Business Intelligence consulting services to clients across Saudi Arabia, UAE, USA, Switzerland, Singapore, Denmark, Ireland, Netherlands, UK, Pakistan, and several other countries.
 
-∆ What I Do Best
+## 🚀 What I Do
 
-• Design interactive dashboards and reports in MS Fabric, Power BI, SQL, Excel, and Python that empower leaders to make informed decisions.
+* Build interactive dashboards and reports using **Power BI, Microsoft Fabric, SQL, Excel, and Python**
+* Design scalable **data models, KPIs, and semantic layers**
+* Develop **ETL/ELT pipelines** and automate reporting workflows
+* Integrate data from databases, APIs, cloud platforms, and business applications
+* Improve reporting performance, data quality, and business visibility
 
-• Build ETL pipelines, automate data workflows, and integrate diverse data sources (Excel, CSV, SQL, APIs, Oracle, SharePoint, OneDrive, OData etc).
+## 📈 Impact
 
-• Provide data automation, governance, and visualization services, solving complex business problems through scalable solutions.
+* Automated reporting processes, reducing manual effort and improving efficiency
+* Developed executive dashboards for strategic decision-making
+* Delivered analytics solutions across Fintech, Sales, Marketing, Logistics, Healthcare, Retail, and Cyber Security domains
+* Supported organizations in turning complex data into actionable business insights
 
-• Develop customized dashboards across industries: Financial, Sales, SEO, Logistics, Marketing, Project Management, Construction, Cyber Security, and more leading to measurable improvements.
+## 🛠️ Tech Stack
 
+**Power BI • Microsoft Fabric • SQL • Python • DAX • Power Query • Excel • ELK Stack • Batch Scripting • Tableau • Snowflake • Azure • Git • SSIS • Power Automate**
 
-∆ Proven Global Impact
+## 📫 Let's Connect
 
-Served clients across 15+ countries with 100% satisfaction rate by delivering high-quality, business-aligned insights.
+If you're looking for a BI Engineer, Data Analyst, or Data Consultant to help transform data into business value, feel free to connect.
 
-Helped organizations achieve operational efficiency, cost savings, and strategic growth by harnessing data.
+**Let's build something impactful together.**
 
-Reach out me and let's build something Great ⬇️ 
 
 
 ## 🌐 Socials:
