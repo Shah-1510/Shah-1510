@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Currently working Remotely as a BI Engineer at WeCrunch<br>along with that I am currently based in Italy, Milan for my<br>Masters in Data Science from University of Milano Bicocca
+I am Currently working Remotely as a BI Engineer at WeCrunch along with that I am currently based in Italy, Milan for my Masters in Data Science from University of Milano Bicocca
 
 I am a Data/BI Analyst also worked at Keenu x Bazaar Pakistan's Largest fintech company and a Google Certified Data Analyst with a background in Software Engineering, passionate about turning raw data into actionable insights that fuel smarter decision making
 
