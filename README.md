@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Hi, I'm Syed Muhammad Shoaib 👋
 
-I am currently working remotely as a **BI Engineer at WeCrunch** while pursuing a **Master's degree in Data Science** at the **University of Milano-Bicocca, Italy**.
+I am currently pursuing the **Master's degree in Data Science** at the **University of Milano-Bicocca, Italy**.
 
 I am a **Business Intelligence & Data Analytics professional** with 3+ years of experience in BI, Data Analytics, and Reporting. Previously, I worked at **Keenu x Bazaar**, one of Pakistan's largest fintech companies, and I am also a **Google Certified Data Analyst** with a background in Software Engineering.
 
